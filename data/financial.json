@@ -1,0 +1,125 @@
+[
+	{
+		"name": "Rev",
+		"symbol": "($M)",
+		"data": [
+			{
+				"name": "fy",
+				"value": 438.1,
+				"class": "text-disabled"
+			},
+			{
+				"name": "q1",
+				"value": 117.9,
+				"class": "text-bad"
+			},
+			{
+				"name": "q2",
+				"value": 123.2,
+				"class": "text-average"
+			},
+			{
+				"name": "q3",
+				"value": 134,
+				"class": "text-average"
+			},
+			{
+				"name": "q4",
+				"value": 141,
+				"class": "text-average"
+			},
+			{
+				"name": "fy'17",
+				"value": 516.1,
+				"class": "text-good"
+			},
+			{
+				"name": "Target",
+				"value": 525,
+				"class": "text-normal"
+			}
+		]
+	},
+	{
+		"name": "GP ",
+		"symbol": "INR Mn",
+		"data": [
+			{
+				"name": "fy",
+				"value": "8,366",
+				"class": "text-disabled"
+			},
+			{
+				"name": "q1",
+				"value": "2,459",
+				"class": "text-good"
+			},
+			{
+				"name": "q2",
+				"value": "2,602",
+				"class": "text-average"
+			},
+			{
+				"name": "q3",
+				"value": "2,795",
+				"class": "text-average"
+			},
+			{
+				"name": "q4",
+				"value": "2,959",
+				"class": "text-average"
+			},
+			{
+				"name": "fy'17",
+				"value": "10,849",
+				"class": "text-good"
+			},
+			{
+				"name": "Target",
+				"value": "11,908",
+				"class": "text-normal"
+			}
+		]
+	},
+	{
+		"name": "GM ",
+		"symbol": "%",
+		"data": [
+			{
+				"name": "fy",
+				"value": "30.8%",
+				"class": "text-disabled"
+			},
+			{
+				"name": "q1",
+				"value": "31.6%",
+				"class": "text-good"
+			},
+			{
+				"name": "q2",
+				"value": "31.2%",
+				"class": "text-average"
+			},
+			{
+				"name": "q3",
+				"value": "31.6%",
+				"class": "text-average"
+			},
+			{
+				"name": "q4",
+				"value": "31.8%",
+				"class": "text-average"
+			},
+			{
+				"name": "fy'17",
+				"value": "31.8%",
+				"class": "text-good"
+			},
+			{
+				"name": "Target",
+				"value": "32.0%",
+				"class": "text-normal"
+			}
+		]
+	}
+]

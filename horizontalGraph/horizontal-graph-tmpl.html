@@ -1,0 +1,28 @@
+<h3 class="no-margin title-text">Current Quarter: Tower View</h3>
+<div class="clearfix">
+	<div ng-repeat="towerReportData in towerCurrentReport" class="circle-graph no-padding">
+		<div class="row">
+			<div class="col-sm-8 no-padding margin-T20" create-horizontal-graph graph-value="towerReportData" class="horizontal-graph-holder"></div>
+			<div class="col-sm-4">
+				<table class="table table-condensed current-qtr-tbl" border="0" cellpadding="0" cellspacing="0">
+					<thead>
+						<tr class="font10">
+							<th class="text-center">%GM FC</th>
+							<th class="text-center">%GM Target</th>
+						</tr>
+					</thead>
+					<tbody ng-repeat="dataValues in towerReportData.data">
+						<tr ng-repeat="towerData in dataValues.towerValue">
+							<td class="text-center text-good">
+								{{towerData.GMFC}} %
+							</td>
+							<td class="text-center text-normal">
+								{{towerData.GMTarget}} %
+							</td>
+						</tr>
+					</tbody>
+				</table>				
+			</div>			
+		</div>
+	</div>
+</div>

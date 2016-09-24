@@ -1,0 +1,21 @@
+@media (min-width: 768px) {
+	.move-text{
+		text-align: right;
+	}
+}
+
+@media screen and (max-width: 767px) {
+	.form-inline .form-group{
+		display: inline-block;
+		margin-bottom: 0;
+		vertical-align: middle;
+	}
+	
+	.res-text-left{
+		float: left;
+	}
+	
+	.res-text-right{
+		float: right;
+	}
+}

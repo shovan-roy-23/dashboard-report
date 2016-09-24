@@ -1,0 +1,34 @@
+[
+	{
+		"view":"graph",
+		"data":[
+			{
+				"towerName": "Apps",
+				"towerValue":[{
+					"RevTarget": 95.3,
+					"RevForecast":94.6,
+					"GMFC":31,
+					"GMTarget": 32.0
+				}]
+			},
+			{
+				"towerName": "BPO",
+				"towerValue":[{
+					"RevTarget": 16.2,
+					"RevForecast": 16,
+					"GMFC": 35,
+					"GMTarget": 37.5
+				}]
+			},
+			{
+				"towerName": "ITO",
+				"towerValue":[{
+					"RevTarget": 12.3,
+					"RevForecast":12,
+					"GMFC": 33,
+					"GMTarget": 34.5
+				}]
+			}
+		]
+	}
+]

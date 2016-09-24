@@ -1,0 +1,22 @@
+[
+	{
+		"rowData":[
+			{
+				"name" : "Apps",
+				"value" : 4.2
+			},
+			{
+				"name" : "ITO Core",
+				"value" : 4.4
+			},
+			{
+				"name" : "ITO SD",
+				"value" : 4.1
+			},
+			{
+				"name" : "BPO",
+				"value" : 4.2
+			}
+		]
+	}
+]

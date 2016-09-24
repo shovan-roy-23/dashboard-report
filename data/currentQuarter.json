@@ -1,0 +1,62 @@
+[
+	{
+	"name": "Rev",
+	"data" :[
+		{
+		 "value" : "122.6",
+		 "title" : "Rev Forecast ($M)",
+		 "class" : "text-average"
+		},
+		{
+		 "value" : "123.8",
+		 "title" : "Rev Target ($M)",
+		 "class" : "text-normal"
+		},
+		{
+		 "value" : "99%",
+		 "title" : "Target Achievement",
+		 "class" : "text-success"
+		}
+	]
+	},
+	{
+	"name": "GP",
+	"data" :[
+		{
+		 "value" : "2,515",
+		 "title" : "GP Forecast (INR M)",
+		 "class" : "text-average"
+		},
+		{
+		 "value" : "2,615",
+		 "title" : "GP Target (INR M)",
+		 "class" : "text-normal"
+		},
+		{
+		 "value" : "96%%",
+		 "title" : "Target Achievement",
+		 "class" : "text-success"
+		}
+	]
+	},
+	{
+	"name": "GM",
+	"data" :[
+		{
+		 "value" : "31%",
+		 "title" : "%GM Forecast",
+		 "class" : "text-average"
+		},
+		{
+		 "value" : "32%",
+		 "title" : "%GM Target",
+		 "class" : "text-normal"
+		},
+		{
+		 "value" : "97%",
+		 "title" : "Target Achievement",
+		 "class" : "text-success"
+		}
+	]
+	}
+] 

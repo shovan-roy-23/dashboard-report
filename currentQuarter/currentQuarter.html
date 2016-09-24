@@ -1,0 +1,7 @@
+<h3 class="no-margin title-text">Current Quarter</h3>
+<div class="row" ng-repeat="reports in currentQuarter">
+	<div class="col-sm-4 text-center" ng-repeat="infoValues in reports.data">
+		<h4 ng-class="infoValues.class" class=" font14  no- ">{{infoValues.value}}</h4>
+		<h5 class="font10 no- ">{{infoValues.title}}</h5>
+	</div>
+</div>

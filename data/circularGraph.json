@@ -1,0 +1,22 @@
+[
+	{
+		"name" : "Utilisation",
+		"value" : "86",
+		"id": "utilisation"
+	},
+	{
+		"name" : "Onsite Mix",
+		"value" : "28",
+		"id": "onsite_mix"
+	},
+	{
+		"name" : "Buffer %",
+		"value" : "11",
+		"id" : "Buffer_%"
+	},
+	{
+		"name" : "Fresher",
+		"value" : "13",
+		"id": "fresher"
+	}
+]

@@ -1,0 +1,23 @@
+<div class="table-responsive financialReport-table">
+	<table class="table table-condensed table-hover no-margin">
+		<tr>
+			<th></th>
+			<th>Fy'16</th>
+			<th>Q1'17</th>
+			<th>Q2'17</th>
+			<th>Q3'17</th>
+			<th>Q4'17</th>
+			<th>Fy'17</th>
+			<th>Target</th>
+		</tr>
+		<tr ng-repeat="report in financialReport">
+			<td>
+				<span class="font14 text-grey">{{report.name}}</span>
+				<span class="font10 text-lt-grey">{{report.symbol}}</span>
+			</td>
+			<td ng-repeat="values in report.data" ng-class="values.class">
+				{{values.value}}
+			</td>
+		</tr>
+	</table>
+</div>
