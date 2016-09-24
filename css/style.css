@@ -136,6 +136,8 @@ h3.title-text{
 
 .circle-graph-holder{
 	margin-left: 10px;
+	float: left;
+	width: 100px;
 }
 
 .circle-graph .circle-value{
