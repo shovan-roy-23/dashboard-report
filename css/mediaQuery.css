@@ -5,14 +5,6 @@
 		vertical-align: middle;
 	}
 	
-	.res-text-left{
-		float: left;
-	}
-	
-	.res-text-right{
-		float: right;
-	}
-	
 	.circle-graph {
 		position: relative;
 		width: 50%;
