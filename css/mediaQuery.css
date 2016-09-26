@@ -15,4 +15,9 @@
 		width: 33.3333%;
 		float: left;
 	}
+	
+	.quarter-block h5{
+		width: 75px;
+		margin: 0 auto;
+	}
 }
