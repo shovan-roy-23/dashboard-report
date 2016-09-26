@@ -8,6 +8,7 @@ var app = angular.module('dashboard',['chart.js']).config(['ChartJsProvider', fu
 	});
 	// Configure horizontal charts
 	ChartJsProvider.setOptions('horizontalBar', {
+		responsive: false,
 		legend:{
 			display: true,
 			position: 'bottom',
